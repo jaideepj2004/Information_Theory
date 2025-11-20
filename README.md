@@ -1,7 +1,7 @@
 # ISIB — Improved Structured Information Bottleneck
 
 > **Project**: Improved Structured Information Bottleneck (ISIB)  
-> **Authors / Team**: Jaideep Jaiswal (202211032), Ayush Gupta (202211007), Sanskar Koserval (202211077)  
+> **Authors / Team**: Ayush Gupta (202211007), Jaideep Jaiswal (202211032), Sanskar Koserval (202211077)  
 > **Supervisor**: Dr. Jignesh Patel  
 > **Description**: ISIB extends the Structured Information Bottleneck (SIB) idea by adding multi-encoders, attention-based fusion, and supervised contrastive learning. It improves representation quality and classification accuracy across MNIST, Fashion-MNIST, SVHN, and CIFAR-10.
 
